@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+.paragraph {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.button {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  background-color: transparent;
+  width: 70px;
+  height: 25px;
+  font-family: 'Roboto';
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+}
